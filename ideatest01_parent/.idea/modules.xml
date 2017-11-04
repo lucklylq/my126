@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ideatest01_common/ideatest01_common.iml" filepath="$PROJECT_DIR$/ideatest01_common/ideatest01_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideatest01_dao/ideatest01_dao.iml" filepath="$PROJECT_DIR$/ideatest01_dao/ideatest01_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideatest01_entity/ideatest01_entity.iml" filepath="$PROJECT_DIR$/ideatest01_entity/ideatest01_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideatest01_parent.iml" filepath="$PROJECT_DIR$/ideatest01_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideatest01_service/ideatest01_service.iml" filepath="$PROJECT_DIR$/ideatest01_service/ideatest01_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideatest01_web/ideatest01_web.iml" filepath="$PROJECT_DIR$/ideatest01_web/ideatest01_web.iml" />
+    </modules>
+  </component>
+</project>
